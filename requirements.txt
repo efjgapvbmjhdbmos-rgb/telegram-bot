@@ -1,5 +1,6 @@
-    pyTelegramBotAPI
-    Pillow
-    yt-dlp
-    requests
-    qrcode    
+   pyTelegramBotAPI
+Pillow
+yt-dlp
+requests
+qrcode
+flask    
