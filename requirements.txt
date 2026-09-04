@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+yt-dlp
+Pillow
+qrcode[pil]
+requests
+flask
