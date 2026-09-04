@@ -1,3 +1,4 @@
     pyTelegramBotAPI
     Pillow
     yt-dlp
+    requests    
